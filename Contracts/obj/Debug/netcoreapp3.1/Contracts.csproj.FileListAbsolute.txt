@@ -1,0 +1,7 @@
+C:\Users\jcelestino\source\repos\BankTransaction\Contracts\bin\Debug\netcoreapp3.1\Contracts.deps.json
+C:\Users\jcelestino\source\repos\BankTransaction\Contracts\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\jcelestino\source\repos\BankTransaction\Contracts\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\jcelestino\source\repos\BankTransaction\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfoInputs.cache
+C:\Users\jcelestino\source\repos\BankTransaction\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfo.cs
+C:\Users\jcelestino\source\repos\BankTransaction\Contracts\obj\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\jcelestino\source\repos\BankTransaction\Contracts\obj\Debug\netcoreapp3.1\Contracts.pdb
